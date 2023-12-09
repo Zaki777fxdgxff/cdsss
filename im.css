@@ -1,0 +1,36 @@
+img{
+    
+   width: 100%;
+    height: 500px;
+    
+}
+
+#im{
+  width: 1000px;
+    height: 500px;
+    margin: 2px auto;
+    position: relative;
+    border:8px solid #e6e2e2;
+    box-shadow: 0px 0px 5px 2px #ccc;
+    
+    
+}
+
+.i img{
+  padding: 20px;
+    width: 65px;
+    height: 54px;
+    margin: -289px 10px 196px -18px;
+   cursor: pointer;
+    
+}
+
+
+.i1 img{
+  padding: 20px;
+    width: 65px;
+    height: 54px;
+    margin: -309px 10px 213px 900px;
+    cursor:pointer;
+    
+}
